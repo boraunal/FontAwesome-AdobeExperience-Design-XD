@@ -1,4 +1,4 @@
-# **Font-Awesome-Adobe-Experience-Design**
+# **FontAwesome Adobe Experience Design - Adobe XD**
 
 This project provides an Adobe Experience Design XD file with Font-Awesome Free version SVG's included.
 
